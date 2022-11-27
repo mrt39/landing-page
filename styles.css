@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  .header-container {
+    background-color: #1F2937;  
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;    
+
+  }
+  
+  .header {
+    
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .header-logo {
+    font-size: 24px;
+    color:#F9FAF8;
+  }
+  
+  .links {
+    display: flex;
+    justify-content:center;
+    gap: 15px
+  }
+
+  .header-link {
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    align-items: center;   
+  }
