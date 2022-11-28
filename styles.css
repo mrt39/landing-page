@@ -107,3 +107,57 @@
       color: #e5e7eb;
   
     }
+
+    .random-info-container {
+      display: flex;
+      justify-content: center;  
+      border: red;
+
+    }
+    .blue-boxes {
+      /*border: 1px solid #fff;   For debugging */
+      display: flex;
+      gap: 30px;  
+      margin-top: 15px;
+      padding: 18px;
+    }
+
+    .box {
+      border: 4px solid #3882F6; 
+      border-radius: 10px; /* round corners */
+      width: 150px;
+      height: 150px;
+    }
+
+    .text-under-boxes {
+     /* border: 1px solid #fff;  /* For debugging */
+      display: flex;
+      align-items: flex-start;
+      gap: 30px;  
+    }
+
+    .text-under-box {
+      border-radius: 10px; /* round corners */
+      width: 150px;
+      height: 150px;
+      text-align: center;
+    }
+
+    .some-random-information-text {
+      font-weight: 800;
+      font-size: 36px;
+      color:#1F2937;
+    }
+    
+
+    .random-info-text-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+    }
+
+    .white-space-1 {
+      padding: 80px
+    }
+
+
