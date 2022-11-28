@@ -193,3 +193,51 @@
       font-weight: 800;
 
     }
+
+
+    .call-to-action-container{
+      display: flex;
+      justify-content: center; 
+      padding: 120px
+    }
+
+    .call-to-action-bluebox{
+      border-radius: 10px; /* round corners */
+      background-color: #3882F6;
+      height: 150px;
+      width: 1100px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center; 
+    }
+
+    .call-to-action-text-1{
+      color: #F9FAF8;
+      font-size: 24px;
+      font-weight: 800;
+    }
+
+    .call-to-action-text-2{
+      color: #F9FAF8;
+      font-size: 18px;
+      font-weight: 300;
+    }
+
+    .signup-button-container{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 2px solid #fff; 
+      width: 130px;
+      height: 35px;
+      border-radius: 7px; /* round corners */
+    }
+
+    .signup-button{
+      color: #F9FAF8;
+      font-size: 18px;
+
+
+      text-align: center;
+      font-weight: 800;
+    }
