@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto+Slab|Roboto:300,400,500,700);
 
 
 * {
@@ -161,3 +161,35 @@
     }
 
 
+    .quote-section-container {
+      background-color: #e5e7eb;  
+      padding: 100px 0;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      align-items: center; 
+    }
+
+    .quote-container {
+      display: flex;
+      justify-content: center; 
+      width: 810px;
+    }
+
+    .quote {
+      font-size: 36px;
+      color:#1F2937;
+      font-weight: 300;
+      font-style: italic;
+    }
+
+  
+    .thor-container{
+      width: 750px;
+    }
+    .thor-text{
+      text-align: right;
+      font-size: 24px;
+      font-weight: 800;
+
+    }
