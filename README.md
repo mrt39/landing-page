@@ -1,2 +1,2 @@
 # landing-page
-Assignment for the Odin Project
+Assignment for The Odin Project regarding CSS-flexbox (display:flex)
